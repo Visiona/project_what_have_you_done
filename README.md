@@ -1,5 +1,12 @@
-# project_what_have_you_done
-Build an application to help track the legislative activities of your local representatives.
+# Political Tracking App
+
+Node.js
+Express.js
+
+________________________________________________________________
+WORK IN PROGRESS
+________________________________________________________________
+This is am application that helps to find representatives for a specified local area in USA and helps tracking the legislative activities of the chosen representatives.
 
 
 # Tracker of USA elections in 2016
